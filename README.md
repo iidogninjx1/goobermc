@@ -32,4 +32,8 @@ Notes
 - JavaScript is inline in `index.html` to keep the page highly portable.
 
 License
-This project is provided as-is.
+This project is dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+
+You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+See the full license in `LICENSE`.
