@@ -25,8 +25,6 @@ GitHub Pages
 
 	https://iidogninjx1.github.io/goobermc/
 
-	I checked the remote — there is only a `main` branch on origin. If you prefer a different Pages source (for example `gh-pages` or the `docs/` folder), update the repository Settings → Pages on GitHub.
-
 Notes
 - The page stores values in `localStorage` (if used) and provides copy-to-clipboard buttons for Java and Bedrock addresses.
 - JavaScript is inline in `index.html` to keep the page highly portable.
